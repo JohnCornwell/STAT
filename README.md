@@ -12,7 +12,7 @@ Included in this repository are several software artifacts that show how STAT wa
 
 Below is an example of the full version of STAT running on a machine.
 
-Note: GitHub video playback seems to be broken and only showing the video preview until you slide the scrollbar. I have included the full [video](https://github.com/JohnCornwell/STAT/blob/main/STAT_Demo.mp4) as part of the repo.
+Note: GitHub video playback seems to be broken and only showing a small portion of the full demo. I have included the full [video](https://github.com/JohnCornwell/STAT/blob/main/STAT_Demo.mp4) as part of the repo.
 
 
 
