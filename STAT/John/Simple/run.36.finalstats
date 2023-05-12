@@ -1,0 +1,5 @@
+   36
+ task_0 total_demand target 19900.000000 tracker 4632.000000 diff 15268.000000 max 15268.000000 min -40.000000 final_task_accuracy 0.767236
+ task_1 total_demand target 19900.000000 tracker 4749.000000 diff 15151.000000 max 15151.000000 min -38.000000 final_task_accuracy 0.761357
+ avg_accuracy 3.243278
+ switch avg 106.820000 max 125 min 90   spontaneous_switch avg 0.000000 max 0 min 0
