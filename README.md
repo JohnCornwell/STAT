@@ -12,4 +12,7 @@ Included in this repository are several software artifacts that show how STAT wa
 
 Below is an example of the full version of STAT running on a machine.
 
-https://github.com/JohnCornwell/STAT/assets/132529204/eee80eac-12ba-4637-9f5a-13551b9331e7
+
+
+https://github.com/JohnCornwell/STAT/assets/132529204/015d8421-a2bb-4b42-9511-d793180c61c4
+
